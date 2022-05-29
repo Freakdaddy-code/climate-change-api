@@ -62,11 +62,6 @@ const newspapers = [
     base: "https://www.smh.com.au",
   },
   {
-    name: "un",
-    address: "https://www.un.org/climatechange",
-    base: "",
-  },
-  {
     name: "cityam",
     address: "https://www.cityam.com/news/",
     base: "",
